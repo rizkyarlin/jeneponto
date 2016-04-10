@@ -1,6 +1,6 @@
 <?php
 // Rizky Arlin
-//
+// Branch Endi
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$nomor_keluarga = $_POST["nomor_keluarga"];	
 	$nama_kepala_keluarga = $_POST["nama_kepala_keluarga"];
