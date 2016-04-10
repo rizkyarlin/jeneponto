@@ -1,6 +1,6 @@
 <?php
-// define variables and set to empty values
-
+// Rizky Arlin
+//
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$nomor_keluarga = $_POST["nomor_keluarga"];	
 	$nama_kepala_keluarga = $_POST["nama_kepala_keluarga"];
